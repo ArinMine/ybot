@@ -35,8 +35,8 @@ Daftar hadis:
 
 exports.groupBot = (sender) => {
     return `
-Link Group Chika Fenst : https://chat.whatsapp.com/HLU6B1Mw34QBMUoXAyhec0
-Link Group Chika Fenst V2 : https://chat.whatsapp.com/IwGkynIvQAk1J6wQVDLeFC
+Link Group Ft Arin : https://chat.whatsapp.com/EO5iXxBk5Dk9xLTFxxzVmS
+Link Group Ft Arin V2 : https://chat.whatsapp.com/J2h3inQqJo0FcrSSyLutQa
 
 
 Jangan lupa join ya kak @${sender.split('@')[0]}`
@@ -176,13 +176,13 @@ exports.menu = (prefix, ucap, pushname2, jumlahUser, timebot, owner, jumlahHaria
 
 ╭── 「 *BOT INFO* 」 ──
 │
-│❒͡  _*CHIKA BOT*_ 
+│❒͡  _*ARIN BOT*_ 
 │❒͡ *Contact My Owner*
 │ *https://wa.me/${owner}*
 │❒͡ *Time: ${time}*
 │❒͡ *STATUS* :「 ${public} 」
 │
-╰── 「 *CHIKA BOT* 」 ──
+╰── 「 *ARIN BOT* 」 ──
 
 ❉──────────────────❉  
 *Name* : *${pushname2}* 
@@ -207,7 +207,7 @@ exports.menu = (prefix, ucap, pushname2, jumlahUser, timebot, owner, jumlahHaria
 
  𒍮 *Total Hit Today : ${jumlahHarian}*
 
-*── 「 CHIKA BOT 」 ──*
+*── 「 ARIN BOT 」 ──*
 
 
 *Official BOT By @0*`
@@ -399,7 +399,7 @@ exports.tos = (ownerNumber, prefix) => {
 *── 「 DONATE 」 ──*
 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-08127668234 (OVO/Telkomsel/GoPay)
+081396123908 (OVO/Telkomsel/GoPay)
 
 
 Terima kasih!
